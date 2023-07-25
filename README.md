@@ -44,6 +44,15 @@ Voici quelques points importants à considérer :
 
 3. Utilisation à distance via SSH : Si vous avez besoin d'utiliser le script à distance via SSH, n'oubliez pas d'utiliser le paramètre "-X" et "-Y" pour avoir l'export graphique et afficher l'interface graphique Zenity.
 
+# Installation
+Il y a deux methodes d'intsallion :
+1. La premiere est bien sur de telecharger le fichier "installer.sh" depuis notre depot et l'executer depuis votre machine linux car le fichier est deja un executable "./installer.sh"
+2. La deuxieme methode est celle-ci :
+
+    * La personne doit cloner le dépôt avec la commande : git clone https://github.com/mrfinker/calculateur_app.git .
+    * Elle doit ensuite aller dans le dossier du dépôt avec la commande : cd calculateur_app .
+    * Enfin, elle peut exécuter le script d'installation avec la commande : ./installer.sh .
+
 # Note pour les developpeurs
 Le texte ci-dessous décrit le logiciel utilisé pour créer le package et fournit des informations sur les balises et légendes utilisées dans le script d'installation :
 
