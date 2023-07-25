@@ -20,7 +20,7 @@ Voici la liste des étudiants qui ont accomplie ce travail :
 
 Ce programme a été rendu possible grâce à la collaboration d'autres étudiants L2 (Génie-UNIKIN, 2021-2022), ainsi qu'avec le soutien du Professeur Christian D. Bope.
 
-Nous vous rappelons que la date de lancement du programme Unikin_Pack-v1.0 était le 25 juillet 2023, et depuis lors, nous nous efforçons de fournir des ressources et des outils essentiels pour vous accompagner dans votre parcours académique.
+Nous vous rappelons que la date de lancement du programme installer.sh était le 25 juillet 2023, et depuis lors, nous nous efforçons de fournir des ressources et des outils essentiels pour vous accompagner dans votre parcours académique.
 
 # Objectif
 "Nous sommes fiers de vous présenter notre package complet de logiciels essentiels, compatible avec toutes les distributions dérivées de DEBIAN. Que vous soyez passionné de mathématiques ou d'informatique, ce package offre un large éventail d'outils pour répondre à vos besoins.
