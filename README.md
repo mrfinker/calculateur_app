@@ -44,3 +44,21 @@ Voici quelques points importants à considérer :
 
 3. Utilisation à distance via SSH : Si vous avez besoin d'utiliser le script à distance via SSH, n'oubliez pas d'utiliser le paramètre "-X" et "-Y" pour avoir l'export graphique et afficher l'interface graphique Zenity.
 
+# Note pour les developpeurs
+Le texte ci-dessous décrit le logiciel utilisé pour créer le package et fournit des informations sur les balises et légendes utilisées dans le script d'installation :
+
+"Logiciel utilisé pour la création du package :
+
+Pour que le script fonctionne correctement, le logiciel suivants est nécessaire :
+
+- Zenity (permet l'affichage de la fenêtre graphique)
+
+Si aucune balise n'est précisée, cela signifie que le logiciel s'installe de manière classique avec 'apt install' ou via un paquet Debian manuel.
+
+Cas particulier :
+
+- {Nécessite intervention !} : Pour certains logiciels, l'installation ne sont pas entièrement automatique.
+
+- (cli) : Cette précision sur le logiciel indique qu'il s'utilise en mode CLI (Command Line Interface), c'est-à-dire en ligne de commande. Ces logiciels n'ont pas d'interface graphique et n'apparaissent généralement pas dans le menu ou le tableau de bord des applications. Pour les logiciels de la catégorie "outil en cli", cette indication n'est pas nécessaire, car tous les logiciels de cette catégorie sont en ligne de commande.
+
+Bonne installation avec installer.sh
